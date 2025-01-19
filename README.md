@@ -10,7 +10,7 @@ $pkg update && pkg upgrade
 $pkg install python
 
 
-$pkg install git clone
+$pkg install git
 
 
 $git clone https://github.com/DaxxzMods/ADMIN-PAGE-FINDER.git
